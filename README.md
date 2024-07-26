@@ -8,4 +8,4 @@
 
 [프로젝트 데이터와 코드 링크](https://drive.google.com/drive/folders/1MEAeHKUI8zEQ0AqYiycUtnl876u18lxB?usp=sharing)
 
-[코드 실행결과 분류된 이미지파일](https://drive.google.com/drive/folders/10_OBSunDHKLZdOVU2cu93vlQsJ-yGs1E?usp=sharing)
+[코드 실행결과 유형에 따라 분류된 이미지파일](https://drive.google.com/drive/folders/10_OBSunDHKLZdOVU2cu93vlQsJ-yGs1E?usp=sharing)
